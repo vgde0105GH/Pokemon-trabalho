@@ -1,0 +1,20 @@
+link pro desenho do escalidraw
+https://excalidraw.com/#json=dkjarmuVZlClBfjqszZrY,GZX8d-bfHL7-GgG4Ca8OJA
+
+API
+URL BASE - https://pokeapi.co/api/v2/pokemon
+DOCUMENTACAO - https://pokeapi.co/docs/v2
+
+- PRECISAMOS LISTAR 20 POKEMONS NA HOME.
+- OS BOTOES NA PARTE INFERIOR DEVEM FAZER A PAGINACAO
+- CADA CARD DE POKEMON DEVE INCLUIR UMA IMAGEM E O NOME
+- AO CLICAR NO CARD DO POKEMON, DEVE NAVEGAR PRA TELA "/pokemon"
+- NA TELA "/pokemon" DEVE SER EXIBIDO, ALEM DA FOTO E NOME, 8 CARACTERISTICAS, A SUA ESCOLHA
+
+regra
+- nao mudar nome de arquivos, para coisas genericas, principalmente de pastas e do html
+- usar variaveis css pra cor
+- responsivo
+- persistir os dados na tela de "/pokemon"
+- ler a documentacao da api
+- usar o INSOMNIA pra testar e ver respostas
